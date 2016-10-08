@@ -1,4 +1,6 @@
-import java.util.Objects;	
+package org.alex859.functionfun.function.utils;
+
+import java.util.Objects;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
